@@ -2,6 +2,5 @@
 <item>
   <version>2.0.0.0</version>
   <url>https://votre-serveur.com/downloads/VotreApplication.zip</url>
-  <changelog>https://votre-serveur.com/changelog</changelog>
   <mandatory>false</mandatory>
 </item>
