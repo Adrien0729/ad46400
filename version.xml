@@ -2,5 +2,5 @@
 <item>
   <version>2.0.0.0</version>
   <url>https://votre-serveur.com/downloads/VotreApplication.zip</url>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
